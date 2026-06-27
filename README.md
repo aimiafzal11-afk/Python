@@ -24,4 +24,4 @@ A collection of Python practice programs and solutions designed to strengthen pr
 - Practice and revise Python concepts
 - Improve problem-solving skills
 - Build strong programming fundamentals
-- Prepare for coding interviews and exams
+- Prepare for coding interviews
